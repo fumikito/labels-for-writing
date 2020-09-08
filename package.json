@@ -1,0 +1,26 @@
+{
+  "name": "labels-for-writing",
+  "version": "1.0.0",
+  "description": "GitHub labels template for novel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "labels -c config.json -f"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fumikito/labels-for-writing.git"
+  },
+  "keywords": [
+    "writing"
+  ],
+  "author": "fumikito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fumikito/labels-for-writing/issues"
+  },
+  "homepage": "https://github.com/fumikito/labels-for-writing#readme",
+  "dependencies": {
+    "github-labels": "^0.8.0"
+  }
+}

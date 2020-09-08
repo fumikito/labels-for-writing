@@ -1,0 +1,30 @@
+[
+  {
+  	"name": "Writing",
+  	"color": "#087E8B"
+  },
+  {
+  	"name": "Difficult",
+  	"color": "#FF5A5F"
+  },
+  {
+  	"name": "Research",
+  	"color": "#3C3C3C"
+  },
+  {
+  	"name": "Wontfix",
+  	"color": "#F5F5F5"
+  },
+  {
+  	"name": "Revision",
+  	"color": "#F5F580"
+  },
+  {
+  	"name": "Question",
+  	"color": "#C1839F"
+  },
+  {
+  	"name": "Reusable",
+  	"color": "#3BA870"
+  }
+]
